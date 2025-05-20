@@ -1,0 +1,10 @@
+This is the start to the requirements
+
+pyod
+river
+scikit-learn
+shap
+pandas
+matplotlib
+seaborn
+jupyterlab
